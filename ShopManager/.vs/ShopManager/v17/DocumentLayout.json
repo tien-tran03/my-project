@@ -1,0 +1,969 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TranT\\Downloads\\ShopManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\staffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\staffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\orderlistusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\orderlistusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\orderlistusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\orderlistusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\invoicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\invoicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\invoicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\invoicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\changepass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\changepass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\changepass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\changepass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|c:\\users\\trant\\downloads\\shopmanager\\shopmanager\\views\\addemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\addemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|c:\\users\\trant\\downloads\\shopmanager\\shopmanager\\views\\addemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\addemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\addproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E0B6BD-C0AE-463E-AEA7-1CDACECA7A80}|ShopManager.BLL\\ShopManager.BLL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E0B6BD-C0AE-463E-AEA7-1CDACECA7A80}|ShopManager.BLL\\ShopManager.BLL..csproj|solutionrelative:shopmanager.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.BLL\\obj\\Debug\\net8.0\\ShopManager.BLL..AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShopManager.BLL\\obj\\Debug\\net8.0\\ShopManager.BLL..AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\viewmodels\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewmodels\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E0B6BD-C0AE-463E-AEA7-1CDACECA7A80}|ShopManager.BLL\\ShopManager.BLL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E0B6BD-C0AE-463E-AEA7-1CDACECA7A80}|ShopManager.BLL\\ShopManager.BLL..csproj|solutionrelative:shopmanager.bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E0B6BD-C0AE-463E-AEA7-1CDACECA7A80}|ShopManager.BLL\\ShopManager.BLL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E0B6BD-C0AE-463E-AEA7-1CDACECA7A80}|ShopManager.BLL\\ShopManager.BLL..csproj|solutionrelative:shopmanager.bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E0B6BD-C0AE-463E-AEA7-1CDACECA7A80}|ShopManager.BLL\\ShopManager.BLL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E0B6BD-C0AE-463E-AEA7-1CDACECA7A80}|ShopManager.BLL\\ShopManager.BLL..csproj|solutionrelative:shopmanager.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\productdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\productdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\views\\productdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\views\\productdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\viewmodels\\changepassviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\viewmodels\\changepassviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\shopmanager.dal..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\shopmanager.dal..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\models\\projectprncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\models\\projectprncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C4834-CE82-4EF8-AB9C-5015C2FAC20C}|ShopManager.DAL\\ShopManager.DAL..csproj|solutionrelative:shopmanager.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranT\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranT\\AppData\\Local\\Temp\\.vsdbgsrc\\b98531074446c9d607c453b39c616197247432cefa4edb70bf6822192d9b0f67\\LoginWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\obj\\Debug\\net8.0-windows\\Views\\ProductView.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShopManager\\obj\\Debug\\net8.0-windows\\Views\\ProductView.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF98496-7982-4EA0-992F-7ABAF8A97CFE}|ShopManager\\ShopManager.csproj|solutionrelative:shopmanager\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranT\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranT\\Downloads\\ShopManager\\shopmanager.dal\\obj\\debug\\net8.0\\shopmanager.dal..assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shopmanager.dal\\obj\\debug\\net8.0\\shopmanager.dal..assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 48,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddEmployeeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AddEmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\AddEmployeeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AddEmployeeWindow.xaml.cs",
+              "RelativeToolTip": "ShopManager\\Views\\AddEmployeeWindow.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:38:42.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AddEmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\AddEmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AddEmployeeWindow.xaml",
+              "RelativeToolTip": "ShopManager\\Views\\AddEmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-03T14:38:21.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewModels\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "ShopManager\\ViewModels\\AdminViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:52:35.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderListUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\OrderListUserControl.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\OrderListUserControl.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\OrderListUserControl.xaml",
+              "RelativeToolTip": "ShopManager\\Views\\OrderListUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T11:31:35.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AddProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\AddProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AddProductWindow.xaml.cs",
+              "RelativeToolTip": "ShopManager\\Views\\AddProductWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:19:27.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\HomeView.xaml.cs",
+              "RelativeToolTip": "ShopManager\\Views\\HomeView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:12:52.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AdminWindow.xaml",
+              "RelativeToolTip": "ShopManager\\Views\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T15:04:02.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA/wDwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:23:03.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "ShopManager\\Views\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:05:27.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "ShopManager\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAkwIEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T07:48:41.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ChangePassViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\ChangePassViewModel.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewModels\\ChangePassViewModel.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\ChangePassViewModel.cs",
+              "RelativeToolTip": "ShopManager\\ViewModels\\ChangePassViewModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAUwEYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:53:51.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChangePass.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ChangePass.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\ChangePass.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ChangePass.xaml.cs",
+              "RelativeToolTip": "ShopManager\\Views\\ChangePass.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:44:33.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangePass.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ChangePass.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\ChangePass.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ChangePass.xaml",
+              "RelativeToolTip": "ShopManager\\Views\\ChangePass.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T06:36:08.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\InvoiceWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\InvoiceWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\InvoiceWindow.xaml.cs",
+              "RelativeToolTip": "ShopManager\\Views\\InvoiceWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:13:58.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\Supplier.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T07:23:51.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ProductDetail.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\ProductDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ProductDetail.xaml.cs",
+              "RelativeToolTip": "ShopManager\\Views\\ProductDetail.xaml.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwCoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:43:59.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ProductDetail.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\ProductDetail.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ProductDetail.xaml",
+              "RelativeToolTip": "ShopManager\\Views\\ProductDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T10:31:19.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\Product.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:09:24.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:38:04.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:22:32.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\Customer.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:22:30.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\User.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:22:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShopManager.DAL..csproj",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\ShopManager.DAL..csproj",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\ShopManager.DAL..csproj",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\ShopManager.DAL..csproj",
+              "RelativeToolTip": "ShopManager.DAL\\ShopManager.DAL..csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T07:20:59.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\Order.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:08:17.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProjectPrnContext.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\ProjectPrnContext.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Models\\ProjectPrnContext.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Models\\ProjectPrnContext.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Models\\ProjectPrnContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:52:25.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "ShopManager\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:35:15.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "ShopManager.BLL\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "ShopManager.BLL\\Services\\OrderService.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAA6wGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:23:46.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Repositories\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Repositories\\OrdersRepository.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAewLIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:17:09.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\InvoiceWindow.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\InvoiceWindow.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\InvoiceWindow.xaml",
+              "RelativeToolTip": "ShopManager\\Views\\InvoiceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T12:13:40.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InvoiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\InvoiceViewModel.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewModels\\InvoiceViewModel.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\InvoiceViewModel.cs",
+              "RelativeToolTip": "ShopManager\\ViewModels\\InvoiceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:30:22.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShopManager.BLL..AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.BLL\\obj\\Debug\\net8.0\\ShopManager.BLL..AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ShopManager.BLL\\obj\\Debug\\net8.0\\ShopManager.BLL..AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.BLL\\obj\\Debug\\net8.0\\ShopManager.BLL..AssemblyInfo.cs",
+              "RelativeToolTip": "ShopManager.BLL\\obj\\Debug\\net8.0\\ShopManager.BLL..AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:59:43.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderListUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\OrderListUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\OrderListUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\OrderListUserControl.xaml.cs",
+              "RelativeToolTip": "ShopManager\\Views\\OrderListUserControl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:32:05.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AddProductWindow.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\AddProductWindow.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\AddProductWindow.xaml",
+              "RelativeToolTip": "ShopManager\\Views\\AddProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T08:15:45.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewModels\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\CategoryViewModel.cs",
+              "RelativeToolTip": "ShopManager\\ViewModels\\CategoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:23:24.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "ShopManager\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwIMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:15:08.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ProductView.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\obj\\Debug\\net8.0-windows\\Views\\ProductView.g.i.cs",
+              "RelativeDocumentMoniker": "ShopManager\\obj\\Debug\\net8.0-windows\\Views\\ProductView.g.i.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\obj\\Debug\\net8.0-windows\\Views\\ProductView.g.i.cs",
+              "RelativeToolTip": "ShopManager\\obj\\Debug\\net8.0-windows\\Views\\ProductView.g.i.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:04:57.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwE4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:54:19.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ShopManager.BLL\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "ShopManager.BLL\\Services\\ProductService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwD4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:45:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ProductView.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\ProductView.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ProductView.xaml.cs",
+              "RelativeToolTip": "ShopManager\\Views\\ProductView.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wDcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:04:21.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ShopManager\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\AssemblyInfo.cs",
+              "RelativeToolTip": "ShopManager\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:04:56.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ShopManager.BLL\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ShopManager.BLL\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:04:21.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ShopManager.DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:14:38.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\TranT\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAJ8BAAAAAAAAAAAawLsBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:36:01.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\HomeView.xaml",
+              "RelativeToolTip": "ShopManager\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T16:09:13.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductView.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ProductView.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\ProductView.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\ProductView.xaml",
+              "RelativeToolTip": "ShopManager\\Views\\ProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T15:56:44.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\StaffWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\StaffWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\StaffWindow.xaml.cs",
+              "RelativeToolTip": "ShopManager\\Views\\StaffWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwDAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:20:03.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ShopManager.DAL..AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\obj\\Debug\\net8.0\\ShopManager.DAL..AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ShopManager.DAL\\obj\\Debug\\net8.0\\ShopManager.DAL..AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.DAL\\obj\\Debug\\net8.0\\ShopManager.DAL..AssemblyInfo.cs",
+              "RelativeToolTip": "ShopManager.DAL\\obj\\Debug\\net8.0\\ShopManager.DAL..AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:29:02.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\StaffWindow.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\StaffWindow.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\StaffWindow.xaml \u2B24",
+              "RelativeToolTip": "ShopManager\\Views\\StaffWindow.xaml \u2B24",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T09:19:22.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ShopManager\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:46:06.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAEkQAAAAAAAAAAAswLUSAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-16T07:55:42.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ShopManager.BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager.BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "ShopManager.BLL\\Services\\UserService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvzMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:47:38.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LoginWindow.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\AppData\\Local\\Temp\\.vsdbgsrc\\b98531074446c9d607c453b39c616197247432cefa4edb70bf6822192d9b0f67\\LoginWindow.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b98531074446c9d607c453b39c616197247432cefa4edb70bf6822192d9b0f67\\LoginWindow.cs",
+              "ToolTip": "C:\\Users\\TranT\\AppData\\Local\\Temp\\.vsdbgsrc\\b98531074446c9d607c453b39c616197247432cefa4edb70bf6822192d9b0f67\\LoginWindow.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b98531074446c9d607c453b39c616197247432cefa4edb70bf6822192d9b0f67\\LoginWindow.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:32:36.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ShopManager\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ShopManager\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:23:28.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "ShopManager\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T07:45:42.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\TranT\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:38:16.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ShopManager\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\App.xaml.cs",
+              "RelativeToolTip": "ShopManager\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:10:27.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\App.xaml",
+              "RelativeDocumentMoniker": "ShopManager\\App.xaml",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\App.xaml",
+              "RelativeToolTip": "ShopManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T07:48:28.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\TranT\\Downloads\\ShopManager\\ShopManager\\appsettings.json",
+              "RelativeToolTip": "ShopManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T07:40:53.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

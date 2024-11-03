@@ -1,0 +1,16 @@
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\bin\Debug\net8.0\ShopManager.BLL..deps.json
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\bin\Debug\net8.0\ShopManager.BLL..dll
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\bin\Debug\net8.0\ShopManager.BLL..pdb
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\bin\Debug\net8.0\ShopManager.DAL..dll
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\bin\Debug\net8.0\ShopManager.DAL..pdb
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\obj\Debug\net8.0\ShopManager.BLL..csproj.AssemblyReference.cache
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\obj\Debug\net8.0\ShopManager.BLL..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\obj\Debug\net8.0\ShopManager.BLL..AssemblyInfoInputs.cache
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\obj\Debug\net8.0\ShopManager.BLL..AssemblyInfo.cs
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\obj\Debug\net8.0\ShopManager.BLL..csproj.CoreCompileInputs.cache
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\obj\Debug\net8.0\ShopManager.BLL..sourcelink.json
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\obj\Debug\net8.0\ShopMana.383E2EFC.Up2Date
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\obj\Debug\net8.0\ShopManager.BLL..dll
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\obj\Debug\net8.0\refint\ShopManager.BLL..dll
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\obj\Debug\net8.0\ShopManager.BLL..pdb
+C:\Users\TranT\Downloads\ShopManager\ShopManager.BLL\obj\Debug\net8.0\ref\ShopManager.BLL..dll

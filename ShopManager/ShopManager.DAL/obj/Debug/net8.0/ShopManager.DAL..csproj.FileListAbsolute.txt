@@ -1,0 +1,15 @@
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\bin\Debug\net8.0\ShopManager.DAL..deps.json
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\bin\Debug\net8.0\ShopManager.DAL..runtimeconfig.json
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\bin\Debug\net8.0\ShopManager.DAL..dll
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\bin\Debug\net8.0\ShopManager.DAL..pdb
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\obj\Debug\net8.0\ShopManager.DAL..csproj.AssemblyReference.cache
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\obj\Debug\net8.0\ShopManager.DAL..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\obj\Debug\net8.0\ShopManager.DAL..AssemblyInfoInputs.cache
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\obj\Debug\net8.0\ShopManager.DAL..AssemblyInfo.cs
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\obj\Debug\net8.0\ShopManager.DAL..csproj.CoreCompileInputs.cache
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\obj\Debug\net8.0\ShopManager.DAL..sourcelink.json
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\obj\Debug\net8.0\ShopManager.DAL..dll
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\obj\Debug\net8.0\refint\ShopManager.DAL..dll
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\obj\Debug\net8.0\ShopManager.DAL..pdb
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\obj\Debug\net8.0\ShopManager.DAL..genruntimeconfig.cache
+C:\Users\TranT\Downloads\ShopManager\ShopManager.DAL\obj\Debug\net8.0\ref\ShopManager.DAL..dll
